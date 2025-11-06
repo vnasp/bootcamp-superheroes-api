@@ -22,4 +22,4 @@ Este proyecto está construido utilizando las siguientes tecnologías y bibliote
 
 ## Despliegue 🚀
 
-El sitio web está desplegado y accesible en: ¡pronto!
+El sitio web está desplegado y accesible en: https://vnasp.github.io/superheroes-frontend-user/
